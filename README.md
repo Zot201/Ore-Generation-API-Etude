@@ -7,7 +7,7 @@ This mod refactors the ore generation being used in OnlySilver into an API. Only
 
 I would suggest you to install and run this mod once first (including the testers contained in the testers sub-package), and have a look at the config file to see how the generated config look like.
 
-
+​​
 
 Update: There is an example of how it look like in a generated config.
 
